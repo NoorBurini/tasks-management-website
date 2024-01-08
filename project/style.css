@@ -1,0 +1,32 @@
+body{
+	background-color:#8d70d7;
+	text-align:center;
+}
+div{
+	text-align:center;
+	margin-top:50px;
+	padding:70px;
+	padding-top:50px;
+	color:#502474;
+	background-color:white;
+	font-weight:bold;
+	font-family:courier;
+	font-size:25px;
+}
+a{
+	font-weight:normal;
+	font-size:18px;
+
+	font-weight:bold;
+}
+
+input{
+	margin-top:10px;
+	margin-bottom:10px;
+	padding-right:20px;
+	padding-left:20px;	
+	padding-top:8px;
+	padding-bottom:8px;
+	font-size:20px;
+}
+
